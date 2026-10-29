@@ -1,0 +1,8 @@
+Dataset: simulated only
+Rows in hourly model data: 4291
+Chronological train rows: 3432
+Chronological test rows: 859
+MAE_kWh: 6.411498
+RMSE_kWh: 10.167801
+R2: 0.236449
+Test max actual hourly demand kWh: 87.430000
